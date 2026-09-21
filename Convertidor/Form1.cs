@@ -16,7 +16,7 @@ namespace Convertidor
 
         private void btnaceptar_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
         private void Convercion()
         {
